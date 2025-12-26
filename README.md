@@ -1,4 +1,4 @@
-<!-- description was re-written by chatgpt-->
+description was re-written by chatgpt
 # StudySync
 
 StudySync is a web application designed to help students manage their studies more effectively.  
